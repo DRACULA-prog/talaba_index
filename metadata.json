@@ -1,0 +1,8 @@
+{
+  "name": "Remix UniGrant GPA - Universitet Boshqaruv va Grant Reytingi Platformasi",
+  "description": "Qo'qon Universiteti Turizm va iqtisodiyot fakulteti talabalar GPA ko'rsatkichi, XLS/XLSX orqali ballar va davomatni yuklash, grant saralash, yutuqlarni tasdiqlash va ko'p rolli boshqaruv platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
